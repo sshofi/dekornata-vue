@@ -4,7 +4,7 @@
     <div class="menu text-primary">ABOUT</div>
     <div class="menu text-primary">SHOP</div>
     <div class="menu logo-container">
-      <img class="logo" src="@/assets/images/logodekornata.png"/>
+      <img class="logo" src="@/assets/images/Logo Dekor Nata.png"/>
     </div>
     <div class="menu text-primary">LOGIN</div>
     <div class="menu text-primary">WISHLIST</div>
