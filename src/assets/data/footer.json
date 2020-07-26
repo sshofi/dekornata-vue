@@ -1,0 +1,78 @@
+{
+    "shops": [
+        {
+            "title": "Living Room",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Bed Room",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Dining Room",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Workspace",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Home Decoration",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Wooden Crafts",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Hampers",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Bamboos",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Weaved Crafts",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Ceramics",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Sale",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Furniture",
+            "url": "https://google.com"
+        }
+    ],
+    "informations": [
+        {
+            "title": "Contact Us",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Shipping Information",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Returns & Exchanges",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Privacy Policy",
+            "url": "https://google.com"
+        },
+        {
+            "title": "Terms of Use",
+            "url": "https://google.com"
+        },
+        {
+            "title": "FAQS",
+            "url": "https://google.com"
+        }
+    ]
+}
